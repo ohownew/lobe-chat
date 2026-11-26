@@ -195,6 +195,7 @@
     "fast-xml-parser": "5.4.2",
     "lexical": "0.42.0",
     "pdfjs-dist": "5.4.530",
+    "postgres-interval": "4.1.0",
     "stylelint-config-clean-order": "7.0.0"
   },
   "dependencies": {
